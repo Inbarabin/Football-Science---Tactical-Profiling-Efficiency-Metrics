@@ -38,8 +38,9 @@ balance, and stylistic differences between competitions.
 This approach allows both team-level and league-level quality to be analyzed
 in a stable and comparable manner over time.
 
-```md
+
 ## Project Structure
+```md
 .
 ├── raw_data.py
 ├── name_map.py
